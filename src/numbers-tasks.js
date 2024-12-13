@@ -694,5 +694,5 @@ module.exports = {
   getMaxNumber,
   getRandomInteger,
   getHypotenuse,
-  getCountOfOddNumbers
+  getCountOfOddNumbers,
 };
